@@ -1,0 +1,3 @@
+Contact{firstName='Manoj', lastName='Kumar', city='Safidon', state='Haryana', email='manojbhardwaj@gmail.com', mobileNumber='9999999999'}
+Contact{firstName='Nagraj', lastName='Panchal', city='Bidar', state='Karnataka', email='nagrajpanchal@gmail.com', mobileNumber='8888888888'}
+Contact{firstName='Romil', lastName='Ghadge', city='Pune', state='Maharashtra', email='romilghadge@gmail.com', mobileNumber='7777777777'}
